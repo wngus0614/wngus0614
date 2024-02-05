@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi,%20Juhyun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-## Hi. I'm Juhyun Lee.
+## I'm Juhyun Lee.
 ### A Frontend developer from Korea
 <br/>
 <div>
