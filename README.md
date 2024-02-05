@@ -1,4 +1,5 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi,%20Juhyun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 <div>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wngus0614&show_icons=true&theme=dark&locale=en" alt="wngus0614" /></p>
 </div>
